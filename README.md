@@ -1,26 +1,29 @@
-# AngularClientpanel
+# angular-clientpanel
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+A client panel created with Angular. 
 
-## Development server
+## Synopsis
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Following a Udemy tutorial to deepen my learning about Angular. Using [Google Firebase](https://firebase.google.com/) for database and authentication. Bootstrap, Popper.js and Font-Awesome also used. 
 
-## Code scaffolding
+## Prerequisites
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* NPM: `sudo apt-get install npm`
+* [Angular CLI](https://github.com/angular/angular-cli): `npm install -g @angular/cli`
+* Your favourite code editor
+  * [VSCode](https://code.visualstudio.com/) recommended!
 
-## Build
+## Developing
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+With the prerequisities installed open the project folder and run `ng serve` in terminal for a development server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Running unit tests
+## Author
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* **Mika Vormisto**
 
-## Running end-to-end tests
+## Shout out
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+* **Brad Traversy** at [Traversy Media](https://www.traversymedia.com) 
 
 ## Further help
 
